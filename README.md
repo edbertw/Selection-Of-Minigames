@@ -1,3 +1,3 @@
-# Selection of Games 
+#  MiniGames 
 ## Overview
-4 text-based popular games I programmed as practice for Python Programming.
+4 text-based popular minigames coded in Python 
